@@ -107,7 +107,12 @@
   background-color: #fff;
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', Verdana, sans-serif;
-  padding: 2% 0% 0% 0%;
+  position: absolute;
+  top: 1.6vw ; left:4vw;
+  padding: 0% 0% 0% 0%;
+  margin: 0 auto;
+  font-size: 2vh;
+  
 }
 
 .home-button{
@@ -115,7 +120,11 @@
   background-color: #fff;
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', Verdana, sans-serif;
-  padding: 2% 00% 0% 0%;
+  padding: 0% 00% 0% 0%;
+  position: absolute;
+  top: 1.6vw;
+  left: 42vw;
+  font-size: 2vh;
 }
 
 .my-hobbies-button{
@@ -123,7 +132,22 @@
   background-color: #fff;
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', Verdana, sans-serif;
-  padding: 2% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  position: absolute;
+  top: 1.6vw;
+  left: 52vw;
+  font-size: 2vh;
+}
+.something-button{
+  border-style: none;
+  background-color: #fff;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', Verdana, sans-serif;
+  padding: 0% 0% 0% 0%;
+  position: absolute;
+  top: 1.6vw;
+  left: 63vw;
+  font-size: 2vh;
 }
 
 .contact-me-button{
@@ -131,5 +155,9 @@
   background-color: #fff;
   color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', Verdana, sans-serif;
-  padding: 2% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  position: absolute;
+  top: 1.6vw;
+  left: 73vw;
+  font-size: 2vh;
 }
